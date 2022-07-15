@@ -1,0 +1,29 @@
+
+3. ./router/config
+-> All the urls we have and I assume it just gets the files from ./pages
+
+const routes = [
+  {
+    path: ["/", "/home"],
+    exact: true,
+    component: "Home",
+  },
+
+  {
+    path: ["/signup",],
+    exact: true,
+    component: "Signup",
+  },
+];
+
+export default routes;
+
+
+4. ./pages/Home
+
+5. ./pages/Home/index.tsx
+-> Only file there export what should be returned
+
+6. Blocks in components (Elementor Style)
+
+7. Contents / Texts in content (It´s just the text)

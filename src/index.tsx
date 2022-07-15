@@ -2,6 +2,7 @@ import { BrowserRouter } from "react-router-dom";
 import ReactDOM from "react-dom";
 import "antd/dist/antd.css";
 
+// Go the the big router
 import Router from "./router";
 
 const App = () => (

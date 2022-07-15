@@ -1,7 +1,10 @@
 import { lazy, Suspense } from "react";
 import { Switch, Route } from "react-router-dom";
+
 import Footer from "../components/Footer";
 import Header from "../components/Header";
+
+// Go the the specific routes / urls (like in Django)
 import routes from "./config";
 import { Styles } from "../styles/styles";
 
