@@ -1,0 +1,13 @@
+{
+  "title": "Explore the divine.",
+  "text": "A place where people of all religions get together. Explore the divine and reach to new people all across the world.",
+  "button": [
+    {
+      "title": "Get started"
+    },
+    {
+      "title": "Learn more",
+      "color": "#fff"
+    }
+  ]
+}
