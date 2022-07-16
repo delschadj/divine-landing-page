@@ -9,10 +9,7 @@ const Home = () => {
   return (
     <Container>
       
-
       <SignupBlock></SignupBlock>
-      
-      
       
     </Container>
   );
